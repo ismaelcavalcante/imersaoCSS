@@ -1,0 +1,40 @@
+body {
+  background-image: url('https://s2.glbimg.com/ROEWMy1yewUCIRfeaMmaKDB3Wz8=/0x0:2235x1341/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2019/D/v/ZWMMdTQKu2xahN0tUU4g/gettyimages-1132930101.jpg');
+  background-size: auto 100vh;
+  font-family: Verdana;
+  height: 100vh
+}
+
+.menu {
+  background-color: #EEE8AA;
+  margin: 2px;
+  padding: 2px;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a{
+  color: teal;
+  text-decoration: none;  
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color: #2F4F4F;
+  text-align: center;
+}
+
+.site-subtitle {
+  font-style: italic;
+}
